@@ -1,0 +1,5 @@
+#pip install instaloder
+import instaloder
+ig=instaloder.Instaloder()
+dp=input("Enter Usernamr instaloder")
+ig=domlod_profilr=e(dp,profile_pic_only=true)
